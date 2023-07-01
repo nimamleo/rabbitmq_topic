@@ -1,0 +1,2 @@
+*.*.*   ====> nima.mahii.node                * => word
+#.nima  ====> nima.[node ,js].nima           # => anything
